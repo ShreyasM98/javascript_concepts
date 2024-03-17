@@ -21,3 +21,8 @@ console.log(myVariable.split(""));
 console.log("John,Joe,Dave".split(","));
 
 console.log("Every good boy does fine".split(" "));
+
+// Numbers
+
+// An integer is a whole number.
+const myNumber = 42;
